@@ -27,4 +27,4 @@ jobs:
           app-name: 'Woodwardlabs'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AACE675260BD48C485260D473823FABE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_187FA6998ADF491A952A881964C5E0C6 }}
